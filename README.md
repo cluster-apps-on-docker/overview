@@ -7,15 +7,9 @@
 
 ## Introduction
 
-When I started to learn distributed computing I faced an issue: how can I simulate a learning distributed environment on 
-my machine? After searching for a while, I found that there wasn't a free and open-sourced project that delivered such 
-environment with a great user experience.
-
-> This project is all about this search!
-
-The main goal of **Cluster Apps on Docker** project is to delivery a learning environment for distributed technologies
-on your machine that keeps their distributed nature while providing an awesome user experience, all built on top of our
-big-blue-water-mammal best friend, Docker! :whale2:
+The main goal of this project is to delivery a learning environment for distributed technologies on your machine that 
+keeps their distributed nature while providing an awesome user experience, all built on top of our big-blue-water-mammal 
+best friend, Docker! :whale2:
 
 ## Contents
 
@@ -26,23 +20,10 @@ big-blue-water-mammal best friend, Docker! :whale2:
 
 ## <a name="projects"></a>Projects
 
-### [Apache Spark](https://github.com/cluster-apps-on-docker/spark-standalone-cluster-on-docker)
-
-Apache Spark standalone cluster with two built-in worker nodes and a JupyterLab interface. It supports three API flavors
-with examples notebooks: Scala, PySpark (Python) and SparkR (R).
-
-#### Content
-
- - **[Article](https://towardsdatascience.com/apache-spark-cluster-on-docker-ft-a-juyterlab-interface-418383c95445)**: Apache Spark Cluster on Docker (ft. a JupyterLab Interface) - **Medium Website** - :uk: - July, 2020;
- - **[Article](https://www.mongodb.com/blog/post/getting-started-with-mongodb-pyspark-and-jupyter-notebook)**: Getting started with MongoDB, PySpark, and Jupyter Notebook (mention) - **MongoDB Tech Blog** - :uk: - October, 2020.
-
-#### Metrics
- 
-| Image                                                          | Size                                                                                           | Downloads                                                                 |
-| -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| [JupyterLab](https://hub.docker.com/r/andreper/jupyterlab)     | ![docker-size-jupyterlab](https://img.shields.io/docker/image-size/andreper/jupyterlab/latest) | ![docker-pull](https://img.shields.io/docker/pulls/andreper/jupyterlab)   |
-| [Spark Master](https://hub.docker.com/r/andreper/spark-master) | ![docker-size-master](https://img.shields.io/docker/image-size/andreper/spark-master/latest)   | ![docker-pull](https://img.shields.io/docker/pulls/andreper/spark-master) |
-| [Spark Worker](https://hub.docker.com/r/andreper/spark-worker) | ![docker-size-worker](https://img.shields.io/docker/image-size/andreper/spark-worker/latest)   | ![docker-pull](https://img.shields.io/docker/pulls/andreper/spark-worker) |
+| Tech                                                                                         | Version | Downloads |
+| -------------------------------------------------------------------------------------------- | ------- | --------- |
+| [Apache Spark](https://github.com/cluster-apps-on-docker/spark-standalone-cluster-on-docker) | 1.2.3   | +10.5k    |
+| [Apache Kafka](https://github.com/cluster-apps-on-docker/kafka-cluster-on-docker)            | 0.0.0   | 0         |
 
 ## <a name="contributing"></a>Contributing
 
