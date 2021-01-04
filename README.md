@@ -7,9 +7,9 @@
 
 ## Introduction
 
-The goal of this project is to delivery learning environments for distributed technologies on your own machine by keeping 
-their distributed nature while providing an awesome user experience, all built on top of our big-blue-water-mammal 
-best friend, Docker! :whale2:
+This umbrella project delivers learning environments for distributed apps on your machine, all built on top of our 
+big-blue-water-mammal best friend, Docker :whale2:! Speed up your parallel computing learning by focusing on the 
+application side of the force and let the project deal with infra related stuff. :computer: 
 
 ## Contents
 
@@ -37,9 +37,8 @@ I'd love some help. To contribute, please get in touch from any option on [maint
 
 ## <a name="maintainers"></a>Maintainers
 
-This project is maintained by:
-
- - **André Perez** 
+This project is maintained by **André Perez**.
+ 
 [![Linkedin Badge](https://img.shields.io/badge/-Andre%20Perez-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andremarcosperez)
 [![GitHub Badge](https://img.shields.io/badge/-Andre%20Perez-black?style=flat-square&logo=github&logoColor=white)](https://github.com/andre-marcos-perez)
 [![Twitter Badge](https://img.shields.io/badge/-dekoperez-1da1f2?style=flat-square&logo=twitter&logoColor=white)](mailto:andre.marcos.perez@gmail.com)
