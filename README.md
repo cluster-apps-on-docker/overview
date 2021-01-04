@@ -1,4 +1,4 @@
-# Cluster Apps on Docker Overview
+# Cluster Apps on Docker
 
 > Your entry point to learn parallel computing on distributed systems from the comfort of your machine.
 
@@ -19,40 +19,30 @@ big-blue-water-mammal best friend, Docker! :whale2:
 
 ## Contents
 
-- [Overview](#Overview)
 - [Projects](#projects)
 - [Contributing](#contributing)
 - [Support](#support)
 - [Maintainers](#maintainers)
 
-## <a name="overview"></a>Overview
-
- 1. [Apache Spark](#1-apache-sparkhttpsgithubcomcluster-apps-on-dockerspark-standalone-cluster-on-docker);
- 1. [Apache Kafka](#2-apache-kafkahttpsgithubcomcluster-apps-on-dockerkafka-cluster-on-docker).
-
 ## <a name="projects"></a>Projects
 
-### [1. Apache Spark](https://github.com/cluster-apps-on-docker/spark-standalone-cluster-on-docker)
-
-#### 1.1 Description
+### [Apache Spark](https://github.com/cluster-apps-on-docker/spark-standalone-cluster-on-docker)
 
 Apache Spark standalone cluster with two built-in worker nodes and a JupyterLab interface. It supports three API flavors
 with examples notebooks: Scala, PySpark (Python) and SparkR (R).
 
-#### 1.2 Metrics
+#### Content
+
+ - **[Article](https://towardsdatascience.com/apache-spark-cluster-on-docker-ft-a-juyterlab-interface-418383c95445)**: Apache Spark Cluster on Docker (ft. a JupyterLab Interface) - **Medium Website** - :uk: - July, 2020;
+ - **[Article](https://www.mongodb.com/blog/post/getting-started-with-mongodb-pyspark-and-jupyter-notebook)**: Getting started with MongoDB, PySpark, and Jupyter Notebook (mention) - **MongoDB Tech Blog** - :uk: - October, 2020.
+
+#### Metrics
  
 | Image                                                          | Size                                                                                           | Downloads                                                                 |
 | -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | [JupyterLab](https://hub.docker.com/r/andreper/jupyterlab)     | ![docker-size-jupyterlab](https://img.shields.io/docker/image-size/andreper/jupyterlab/latest) | ![docker-pull](https://img.shields.io/docker/pulls/andreper/jupyterlab)   |
 | [Spark Master](https://hub.docker.com/r/andreper/spark-master) | ![docker-size-master](https://img.shields.io/docker/image-size/andreper/spark-master/latest)   | ![docker-pull](https://img.shields.io/docker/pulls/andreper/spark-master) |
 | [Spark Worker](https://hub.docker.com/r/andreper/spark-worker) | ![docker-size-worker](https://img.shields.io/docker/image-size/andreper/spark-worker/latest)   | ![docker-pull](https://img.shields.io/docker/pulls/andreper/spark-worker) |
-
-
-### [2. Apache Kafka](https://github.com/cluster-apps-on-docker/kafka-cluster-on-docker)
-
-#### 1.1 Description
-
-Apache Kafka, just got started!
 
 ## <a name="contributing"></a>Contributing
 
@@ -68,7 +58,7 @@ I'd love some help. To contribute, please get in touch from any option on [maint
 
 This project is maintained by:
 
-> **André Perez** |
+**André Perez** |
 [![Linkedin Badge](https://img.shields.io/badge/-Andre%20Perez-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andremarcosperez)
 [![GitHub Badge](https://img.shields.io/badge/-Andre%20Perez-black?style=flat-square&logo=github&logoColor=white)](https://github.com/andre-marcos-perez)
 [![Twitter Badge](https://img.shields.io/badge/-dekoperez-1da1f2?style=flat-square&logo=twitter&logoColor=white)](mailto:andre.marcos.perez@gmail.com)
