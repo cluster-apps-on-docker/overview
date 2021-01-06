@@ -7,13 +7,15 @@
 <img align="left" src="docs/image/logo.png">
 
 This umbrella project delivers learning environments for distributed apps on your machine, all built on top of our 
-big-blue-water-mammal best friend, Docker :whale2:! Speed up your parallel computing learning by focusing on the 
+big-blue-water-mammal best friend, Docker! :whale2:
+
+Speed up your parallel computing learning by focusing on the 
 application side of the force and let the project deal with infra related stuff. :computer: 
 
 ![spark](https://img.shields.io/badge/spark-red)
 ![kafka](https://img.shields.io/badge/kafka-black)
 
----
+<p></p>
 
 ## Contents
 
